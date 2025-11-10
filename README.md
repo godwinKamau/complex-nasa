@@ -14,6 +14,10 @@ HTML, CSS, JavaScript, Openweather and Nasa APIs.
 
 <hr>
 
+[Rendered project here](https://godwinkamau.github.io/complex-nasa/)
+
+<hr>
+
 ## Lessons Learned
 
 - Sometimes, APIs just don't work. That's when you use a cors proxy to work around the obstacles and keep on trucking.
